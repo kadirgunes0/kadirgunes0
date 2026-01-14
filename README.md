@@ -1,16 +1,16 @@
-## Hi there 👋
+# Selam, ben Kadir! 👋
 
-<!--
-**kadirgunes0/kadirgunes0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yazılım geliştirme ve görüntü işleme (OpenCV) konularına odaklanmış bir geliştiriciyim. 
+Şu an Python ve C++ projeleri üzerinde çalışıyorum.
 
-Here are some ideas to get you started:
+### 🛠 Teknolojiler ve Araçlar
+- **Diller:** Python, C#(.NET), Linux/Bash, Flutter, Arduino 
+- **Kütüphaneler:** OpenCV, NumPy, Matplotlib, subproccess, OS
+- **Araçlar:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Öne Çıkan Projelerim
+- **[Plaka Tanıma Sistemi](https://github.com/kadirgunes0/Plaka-Tanima-Sistemi):** Görüntü işleme tekniklerini kullanarak plaka tespiti.
+- **[Kütüphane Yönetim Paneli](https://github.com/kadirgunes0/Kutuphane-Yonetim-Paneli):** Python tabanlı bir yönetim arayüzü.
+
+### 📫 Bana Ulaşın:
+- [LinkedIn](LİNKİNİZİ-BURAYA-EKLEYİN)
