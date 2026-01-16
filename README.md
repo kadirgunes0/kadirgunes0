@@ -3,7 +3,7 @@
 Yazılım geliştirme ve siber güvenlik alanında uzmanlaşmaya çalışan bir yazılımcıyım.
 
 ### 🛠 Teknolojiler ve Araçlar
-- **Diller:** Python, C#(.NET), Linux/Bash, Flutter, Arduino(C++) 
+- **Diller:** Python, C#(.NET), Linux/Bash, Flutter(Dart), Arduino(C++)
 - **Kütüphaneler:** OpenCV, NumPy, Matplotlib, subproccess, OS
 - **Araçlar:** Git, GitHub, VS Code
 
@@ -13,7 +13,16 @@ Yazılım geliştirme ve siber güvenlik alanında uzmanlaşmaya çalışan bir 
 - **[Quiz Uygulaması](https://github.com/kadirgunes0/flut_quiz):** 20 soruluk quiz uygulaması (bir database kullanılmadı).
 - **[Harcama Takip Uygulaması](https://github.com/kadirgunes0/azharca):** Yapılan harcamaları kategorize eder ve harcamaları bir grafikte gösterir.
 - **[Zinciri Kırma!](https://github.com/kadirgunes0/zinciri_kirma):** Alışkanlık edinme uygulaması.
-## C# (.Net-Forms)
+
+#### C# (.Net-Forms)
+- **[Hesap Makinesi](https://github.com/kadirgunes0/hesapMakinesi):** 4 işlem yapabilceğiniz bir hesap makinesi uygulaması. Aynı zamanda sonuçtaki değeri saklayıp üstüne birkaç işlem daha yapılabilir.
+- **[Kütüphane Otomasyonu](https://github.com/kadirgunes0/zinciri_kirma):** Sahte verilerle yapılmış bir kütüphane otomasyonudur. 2 kullanıcı vardı bunlar: Öğrenci, Yöneticidir. Yönetici hem öğrenci ekleyebilir hem öğrenci kaydını silebilir ayrıca öğrencilerin kaç kitap okuduğunu, hangi kitap daha fazla okunmuş ve teslim tarhilerindeki kalan süreyide görebilir. Öğrenci sadece kitap alabilir ve teslim edebilir.
+#### Python
+- **[Görüntü işleme](https://github.com/kadirgunes0/zinciri_kirma):** yaklaşık 45° açıyla kırmızı yeşil mavi renklerini, kare-üçgen-dikdörtgen-daire şekillerini ayırt edip bunları terminale ne olduğunu yazan uygulamadır.
+- **[tcp sunucu-istemcisi](https://github.com/kadirgunes0/zinciri_kirma):** TCP/IP sunucusu ve istemci mantığını anlamak için yapıldı.
+- **[netcat klonu](https://github.com/kadirgunes0/zinciri_kirma):** BlackHat Python kitabından aldığım bir reverse shell yazılımıdır.(python3'e rewritelanıp düzenlendi).
+- **[veri istatistiği](https://github.com/kadirgunes0/zinciri_kirma):** Oyun satışları ve metacritic puanlarını ilişkilendirip matploit ile nokta grafiğinde gösterimi.
+
 
 ### 📫 Bana Ulaşın:
-- [LinkedIn](LİNKİNİZİ-BURAYA-EKLEYİN)
+- [LinkedIn](https://www.linkedin.com/in/kadir-gunes/)
