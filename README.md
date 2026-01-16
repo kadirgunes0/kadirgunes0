@@ -4,6 +4,7 @@ Yazılım geliştirme ve siber güvenlik alanında uzmanlaşmaya çalışan bir 
 
 ### 🛠 Teknolojiler ve Araçlar
 - **Diller:** Python, C#(.NET), Linux/Bash, Flutter(Dart), Arduino(C++)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 - **Kütüphaneler:** OpenCV, NumPy, Matplotlib, subproccess, OS
 - **Araçlar:** Git, GitHub, VS Code
 
