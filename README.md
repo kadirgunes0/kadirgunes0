@@ -7,7 +7,7 @@ Yazılım geliştirme ve siber güvenlik alanında uzmanlaşmaya çalışan bir 
 - **Kütüphaneler:** OpenCV, NumPy, Matplotlib, subproccess, OS
 - **Araçlar:** Git, GitHub, VS Code
 
-## Projelerim:
+## 📝 Projelerim:
 #### Flutter
 - **[Zar Atma Uygulaması](https://github.com/kadirgunes0/zar_atma):** Ekranın ortasındaki zara tıklayarak rastgele zar getirmesi.
 - **[Quiz Uygulaması](https://github.com/kadirgunes0/flut_quiz):** 20 soruluk quiz uygulaması (bir database kullanılmadı).
