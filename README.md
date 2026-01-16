@@ -10,6 +10,7 @@ Yazılım geliştirme ve siber güvenlik alanında uzmanlaşmaya çalışan bir 
 - **Araçlar:** Git, GitHub, VS Code
 
 ## 📝 Projelerim:
+
 #### Flutter
 - **[Zar Atma Uygulaması](https://github.com/kadirgunes0/zar_atma):** Ekranın ortasındaki zara tıklayarak rastgele zar getirmesi.
 - **[Quiz Uygulaması](https://github.com/kadirgunes0/flut_quiz):** 20 soruluk quiz uygulaması (bir database kullanılmadı).
@@ -19,12 +20,14 @@ Yazılım geliştirme ve siber güvenlik alanında uzmanlaşmaya çalışan bir 
 #### C# (.Net-Forms)
 - **[Hesap Makinesi](https://github.com/kadirgunes0/hesapMakinesi):** 4 işlem yapabilceğiniz bir hesap makinesi uygulaması. Aynı zamanda sonuçtaki değeri saklayıp üstüne birkaç işlem daha yapılabilir.
 - **[Kütüphane Otomasyonu](https://github.com/kadirgunes0/zinciri_kirma):** Sahte verilerle yapılmış bir kütüphane otomasyonudur. 2 kullanıcı vardı bunlar: Öğrenci, Yöneticidir. Yönetici hem öğrenci ekleyebilir hem öğrenci kaydını silebilir ayrıca öğrencilerin kaç kitap okuduğunu, hangi kitap daha fazla okunmuş ve teslim tarhilerindeki kalan süreyide görebilir. Öğrenci sadece kitap alabilir ve teslim edebilir.
+
 #### Python
 - **[Görüntü işleme](https://github.com/kadirgunes0/goruntu_isleme):** yaklaşık 45° açıyla kırmızı yeşil mavi renklerini, kare-üçgen-dikdörtgen-daire şekillerini ayırt edip bunları terminale ne olduğunu yazan uygulamadır.
 - **[tcp sunucu-istemcisi](https://github.com/kadirgunes0/tcp-client-and-server):** TCP/IP sunucusu ve istemci mantığını anlamak için yapıldı.
 - **[netcat klonu](https://github.com/kadirgunes0/netcat_Clone):** BlackHat Python kitabından aldığım bir reverse shell yazılımıdır.(python3'e rewritelanıp düzenlendi).
 - **[veri istatistiği](https://github.com/kadirgunes0/veri_istatistigi):** Oyun satışları ve metacritic puanlarını ilişkilendirip matploit ile nokta grafiğinde gösterimi.
 
+#### C++ (Arduino)
 
 ### 📫 Bana Ulaşın:
 - [LinkedIn](https://www.linkedin.com/in/kadir-gunes/)
