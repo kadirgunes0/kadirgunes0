@@ -3,7 +3,7 @@
 Yazılım geliştirme ve siber güvenlik alanında uzmanlaşmaya çalışan bir yazılımcıyım.
 
 ### 🛠 Teknolojiler ve Araçlar
-- **Diller:** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+- **Diller:** ![Python](https://skillicons.dev/icons?i=py) ![Flutter](https://skillicons.dev/icons?i=flutter) ![Dart](https://skillicons.dev/icons?i=dart) ![C#](https://skillicons.dev/icons?i=cs) ![.NET](https://skillicons.dev/icons?i=dotnet)
 
 - **Kütüphaneler:** OpenCV, NumPy, Matplotlib, subproccess, OS
 - **Araçlar:** Git, GitHub, VS Code
