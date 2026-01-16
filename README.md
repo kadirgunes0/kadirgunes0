@@ -3,7 +3,8 @@
 Yazılım geliştirme ve siber güvenlik alanında uzmanlaşmaya çalışan bir yazılımcıyım.
 
 ### 🛠 Teknolojiler ve Araçlar
-- **Diller:** ![Python](https://skillicons.dev/icons?i=py) ![Flutter](https://skillicons.dev/icons?i=flutter) ![Dart](https://skillicons.dev/icons?i=dart) ![C#](https://skillicons.dev/icons?i=cs) ![.NET](https://skillicons.dev/icons?i=dotnet)
+- **Diller:**
+  ![Python](https://skillicons.dev/icons?i=py) ![Flutter](https://skillicons.dev/icons?i=flutter) ![Dart](https://skillicons.dev/icons?i=dart) ![C#](https://skillicons.dev/icons?i=cs) ![.NET](https://skillicons.dev/icons?i=dotnet)
 
 - **Kütüphaneler:** OpenCV, NumPy, Matplotlib, subproccess, OS
 - **Araçlar:** Git, GitHub, VS Code
