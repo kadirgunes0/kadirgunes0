@@ -28,6 +28,7 @@ Yazılım geliştirme ve siber güvenlik alanında uzmanlaşmaya çalışan bir 
 - **[veri istatistiği](https://github.com/kadirgunes0/veri_istatistigi):** Oyun satışları ve metacritic puanlarını ilişkilendirip matploit ile nokta grafiğinde gösterimi.
 
 #### C++ (Arduino)
+- **[Forklift Prototip](https://github.com/kadirgunes0/forklift/tree/main):** uzaktan kumanda ile çalışan forklift oyuncak arabası.
 
 ### 📫 Bana Ulaşın:
 - [LinkedIn](https://www.linkedin.com/in/kadir-gunes/)
