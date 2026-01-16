@@ -1,10 +1,9 @@
 # Selam, ben Kadir! 👋
 
-Yazılım geliştirme ve görüntü işleme (OpenCV) konularına odaklanmış bir geliştiriciyim. 
-Şu an Python ve C++ projeleri üzerinde çalışıyorum.
+Yazılım geliştirme ve siber güvenlik alanında uzmanlaşmaya çalışan bir yazılımcıyım.
 
 ### 🛠 Teknolojiler ve Araçlar
-- **Diller:** Python, C#(.NET), Linux/Bash, Flutter, Arduino 
+- **Diller:** Python, C#(.NET), Linux/Bash, Flutter, Arduino(C++) 
 - **Kütüphaneler:** OpenCV, NumPy, Matplotlib, subproccess, OS
 - **Araçlar:** Git, GitHub, VS Code
 
