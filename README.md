@@ -31,4 +31,4 @@ Yazılım geliştirme ve siber güvenlik alanında uzmanlaşmaya çalışan bir 
 - **[Forklift Prototip](https://github.com/kadirgunes0/forklift/tree/main):** uzaktan kumanda ile çalışan forklift oyuncak arabası.
 
 ### 📫 Bana Ulaşın:
-- [LinkedIn](https://www.linkedin.com/in/kadir-gunes/)
+- [LinkedIn](https://www.linkedin.com/in)
