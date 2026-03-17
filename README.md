@@ -13,25 +13,7 @@ Flutter Developer | CTF Player | Mobile Technologies Student
 - 📱 **Mobile Dev:** Flutter ile cross-platform uygulamalar geliştiriyor, Firebase ile ölçeklenebilir backend çözümleri kuruyorum.
 - 🛡️ **Cyber Security:** Siber güvenlikte kendimi geliştiriyor, aktif olarak CTF çözerek zafiyet analizi ve savunma teknikleri öğreniyorum.
 - 🎯 **Hedef:** "Security-by-design" prensibiyle çalışan, yüksek güvenlikli mobil mimariler inşa etmek.
-
----
-
-### 🛠️ Yetkinlikler & Araçlar
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
+- 
 ---
 
 ### 📊 GitHub İstatistiklerim
