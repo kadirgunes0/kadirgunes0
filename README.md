@@ -19,7 +19,7 @@ Yazılım geliştirme ve siber güvenlik alanında uzmanlaşmaya çalışan bir 
 
 #### C# (.Net-Forms)
 - **[Hesap Makinesi](https://github.com/kadirgunes0/hesapMakinesi):** 4 işlem yapabilceğiniz bir hesap makinesi uygulaması. Aynı zamanda sonuçtaki değeri saklayıp üstüne birkaç işlem daha yapılabilir.
-- **[Kütüphane Otomasyonu](https://github.com/kadirgunes0/zinciri_kirma):** Sahte verilerle yapılmış bir kütüphane otomasyonudur. 2 kullanıcı vardı bunlar: Öğrenci, Yöneticidir. Yönetici hem öğrenci ekleyebilir hem öğrenci kaydını silebilir ayrıca öğrencilerin kaç kitap okuduğunu, hangi kitap daha fazla okunmuş ve teslim tarhilerindeki kalan süreyide görebilir. Öğrenci sadece kitap alabilir ve teslim edebilir.
+- **[Kütüphane Otomasyonu](https://github.com/kadirgunes0/KutuphaneOtomasyonu):** Sahte verilerle yapılmış bir kütüphane otomasyonudur. 2 kullanıcı vardı bunlar: Öğrenci, Yöneticidir. Yönetici hem öğrenci ekleyebilir hem öğrenci kaydını silebilir ayrıca öğrencilerin kaç kitap okuduğunu, hangi kitap daha fazla okunmuş ve teslim tarhilerindeki kalan süreyide görebilir. Öğrenci sadece kitap alabilir ve teslim edebilir.
 
 #### Python
 - **[Görüntü işleme](https://github.com/kadirgunes0/goruntu_isleme):** yaklaşık 45° açıyla kırmızı yeşil mavi renklerini, kare-üçgen-dikdörtgen-daire şekillerini ayırt edip bunları terminale ne olduğunu yazan uygulamadır.
