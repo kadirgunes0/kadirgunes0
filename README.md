@@ -57,5 +57,5 @@ Flutter Developer | CTF Player | Mobile Technologies Student
 
 <p align="left">
 <a href="https://www.linkedin.com/in/kadir-gunes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadir-gunes" height="30" width="40" /></a>
-<a href="mailto:kadirgunes.work@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="kadirgunes" height="30" width="40" /></a>
+<a href="mailto:kkadirgunes2004@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="kadirgunes" height="30" width="40" /></a>
 </p>
