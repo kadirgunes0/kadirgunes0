@@ -1,18 +1,15 @@
 # Selam! Ben Kadir Güneş 👋
 Flutter Developer | CTF Player | Mobile Technologies Student
 
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?user=kadirgunes0&label=Profil%20Görünümü&color=0e75b6&style=flat" alt="kadirgunes0" />
-</p>
-
 ---
+
 
 ### 🔭 Şu Anda Ne Yapıyorum?
 
 - 📱 **Mobile Dev:** Flutter ile cross-platform uygulamalar geliştiriyor, Firebase ile ölçeklenebilir backend çözümleri kuruyorum.
 - 🛡️ **Cyber Security:** Siber güvenlikte kendimi geliştiriyor, aktif olarak CTF çözerek zafiyet analizi ve savunma teknikleri öğreniyorum.
 - 🎯 **Hedef:** "Security-by-design" prensibiyle çalışan, yüksek güvenlikli mobil mimariler inşa etmek.
+
 
 ---
 
@@ -25,12 +22,14 @@ Flutter Developer | CTF Player | Mobile Technologies Student
 
 ---
 
+
 ### 🛠 Teknolojiler ve Araçlar
 
 - ![Python](https://skillicons.dev/icons?i=py) ![Flutter](https://skillicons.dev/icons?i=flutter) ![Dart](https://skillicons.dev/icons?i=dart) ![C#](https://skillicons.dev/icons?i=cs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![Arduino](https://skillicons.dev/icons?i=arduino) ![C++](https://skillicons.dev/icons?i=cpp) [![My Skills](https://skillicons.dev/icons?i=linux,bash)](https://skillicons.dev)
-
+  
 - **Kütüphaneler:** OpenCV, NumPy, Matplotlib, subproccess, OS
 - **Araçlar:** Git, GitHub, VS Code, Visual Studio, Arduino IDE
+
 
 ## 📝 Projelerim:
 
