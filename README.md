@@ -16,10 +16,9 @@ Flutter Developer | CTF Player | Mobile Technologies Student
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kadirgunes0&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Kadir's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadirgunes0&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kadirgunes0&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadirgunes0&layout=compact&theme=radical" width="45%" />
 </p>
-
 ---
 
 
