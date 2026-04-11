@@ -13,15 +13,6 @@ Flutter Developer | CTF Player | Mobile Technologies Student
 
 ---
 
-### 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kadirgunes0&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadirgunes0&layout=compact&theme=radical" width="45%" />
-</p>
----
-
-
 ### 🛠 Teknolojiler ve Araçlar
 
 - ![Python](https://skillicons.dev/icons?i=py) ![Flutter](https://skillicons.dev/icons?i=flutter) ![Dart](https://skillicons.dev/icons?i=dart) ![C#](https://skillicons.dev/icons?i=cs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![Arduino](https://skillicons.dev/icons?i=arduino) ![C++](https://skillicons.dev/icons?i=cpp) [![My Skills](https://skillicons.dev/icons?i=linux,bash)](https://skillicons.dev)
